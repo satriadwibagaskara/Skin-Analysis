@@ -1,5 +1,5 @@
 # Your Python Dependencies
-mediapipe==0.10.7
+mediapipe==0.10.18
 scikit-image==0.22.0
 opencv-python==4.8.1.78
 streamlit==1.27.2
